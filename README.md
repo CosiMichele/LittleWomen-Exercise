@@ -1,9 +1,5 @@
 # Little Women Exercise
 
----
-test update
----
-
 <p align="center">
   <img src='https://static01.nyt.com/images/2020/01/03/books/review/24littlewomen1/24littlewomen1-videoSixteenByNineJumbo1600-v2.jpg' width='500'>
 </p>
